@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm **Muhamad Riski Ramadhani**
-<br/>
-A passionate frontend developer from Indonesia 🇮🇩
-<br/>
+
 Mahasiswa Informatika Universitas Jember
 
 ## 🌐 Socials:
