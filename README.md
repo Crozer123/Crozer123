@@ -45,18 +45,30 @@
 
   <br>
 
-  <h3>📊 GitHub Stats</h3>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=crozer123&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-    <img src="https://streak-stats.demolab.com/?user=crozer123&theme=radical&hide_border=true" height="150" alt="streak graph" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crozer123&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150" alt="languages graph" />
-  </div>
+  <h3>📊 GitHub Analytics</h3>
+  
+  <p>
+    <a href="https://github.com/crozer123">
+      <img src="https://github-readme-stats.vercel.app/api?username=crozer123&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
+    </a>
+  </p>
+  
+  <p>
+    <a href="https://github.com/crozer123">
+      <img src="https://streak-stats.demolab.com/?user=crozer123&theme=radical&hide_border=true" alt="streak" />
+    </a>
+  </p>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crozer123&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="languages" />
+  </p>
 
   <br>
 
   <h3>🏆 Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=crozer123&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=crozer123&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+  </a>
 
   <br><br>
 
